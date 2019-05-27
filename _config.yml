@@ -1,0 +1,31 @@
+title: This is one of the most useless website on the net
+email: your-email@domain.com
+description: You can update description in update blog details page.
+
+baseurl: "/"
+url: http://keralahost.in/kaributas
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: This is one of the most useless website on the net
+
+date: 2019-05-27 12:24:16 +0000
+
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/kaributas/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: kaributas
